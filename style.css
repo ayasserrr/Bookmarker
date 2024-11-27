@@ -1,0 +1,41 @@
+body {
+    background-color: #fdf0e0;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  h1 {
+    font-family: 'Georgia', serif;
+    color: #ef8354;
+  }
+  
+  form input {
+    border: 1px solid #ccc;
+  }
+  
+  form button {
+    background-color: #ef8354;
+    border: none;
+  }
+  
+  form button:hover {
+    background-color: #d56b45;
+  }
+  
+  .btn-visit {
+    background-color: #a8d5ba;
+    border: none;
+  }
+  
+  .btn-visit:hover {
+    background-color: #8bb49a;
+  }
+  
+  .btn-delete {
+    background-color: #f4a3a3;
+    border: none;
+  }
+  
+  .btn-delete:hover {
+    background-color: #dc7373;
+  }
+  
